@@ -4,7 +4,7 @@
   "description": "A cost effective, open source solution to sending mass emails",
   "main": "index.js",
   "engines": {
-    "npm": ">=5",
+    "npm": ">=7",
     "node": ">=7.6.0"
   },
   "scripts": {
@@ -87,7 +87,7 @@
     "react-router": "3.0.2",
     "react-router-redux": "^4.0.8",
     "react-router-transition": "^0.1.1",
-    "react-tooltip": "^3.3.0",
+    "react-tooltip": "^4.2.18",
     "react-widgets": "^3.4.8",
     "redis": "^2.7.1",
     "redux": "3.6.0",
